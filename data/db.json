@@ -1,0 +1,72 @@
+{
+  "blogs":[
+    {
+      "author":"Salma",
+      "id":1,
+      "img":"../assets/img/travel2.jpg",
+      "title": "Travel the World",
+      "description":" discription -----------------------------",
+      "categoryId":"",
+      "tags":""
+
+    },
+    {
+      "id":2,
+      "img":"../assets/img/summer2.jpg",
+      "title": "Summer Colors",
+      "description":" discription -----------------------------",
+      "categorId":"",
+      "tags":""
+
+    },
+    {
+      "id":1,
+      "img":"../assets/img/travel.jpg",
+      "title": "Travel the World",
+      "description":" discription -----------------------------",
+      "categoryId":"",
+      "tags":""
+
+    },
+    {
+      "id":2,
+      "img":"../assets/img/summer.jpg",
+      "title": "Summer Colors",
+      "description":" discription -----------------------------",
+      "categoryId":"",
+      "tags":""
+
+    },
+    {
+      "id":1,
+      "img":"../assets/img/travel.jpg",
+      "title": "Travel the World",
+      "description":" discription -----------------------------",
+      "categoryId":"",
+      "tags":""
+
+    },
+    {
+      "id":2,
+      "img":"../assets/img/summer.jpg",
+      "title": "Summer Colors",
+      "description":" discription -----------------------------",
+      "categoryId":"",
+      "tags":""
+
+    }
+  ],
+  "categories":[
+    {
+      "id":1,
+      "name":" Travel Tips"
+
+    }
+  ],
+  "tags":[
+    {
+      "id":"",
+      "name":"Mountains"
+    }
+  ]
+}
